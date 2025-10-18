@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.idea/
+.vscode/
+*.iml
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+coverage/
+.tmp/
+.temp/
+
+# WeChat Mini Program
+miniprogram_npm/
+project.private.config.json
+
+# Env / secrets
+.env
+.env.*
+
+# Misc
+*.swp
+*.swo
